@@ -1,4 +1,4 @@
-# sum.py
+# lab1_b_qn4.py
 #   A Program that finds the sum of numbers from 1 - 1000
 #   using a for loop
 

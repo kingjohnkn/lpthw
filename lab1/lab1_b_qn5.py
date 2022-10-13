@@ -1,4 +1,4 @@
-# sum_five_numbers_lab1.py
+# lab1_b_qn5.py
 # A program that inputs 5 numbers from the user in a loop and finds the sum of the numbers
 
 # ask user to imput the numbers
